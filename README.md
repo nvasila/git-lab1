@@ -1,2 +1,3 @@
 # git-lab1
-Lab : Git Hub collaboration and conflict resolution
+1.Vasila Natasa
+2.Karageorgou Evi
